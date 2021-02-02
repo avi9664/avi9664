@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! I'm Avi
+- 😀 pronouns are they/them
+- 🌱 currently learning JS, Python, & machine learning
+- 🤖 currently working on a couple of bots & websites
 
 <!--
 **abby9664/abby9664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
