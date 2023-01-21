@@ -1,5 +1,7 @@
 ### Hello! I'm Avi
-- 😀 pronouns are they/them
+- Materials Engineering student at Carnegie Mellon University
+- 😀 pronouns are he/they
+- 🔭 I've dabbled with all sorts of things-- making websites, building bots, crunching data, solving engineering problems, and building neural networks. 
 - 🌱 currently learning JS, Python, & machine learning
 - 🤖 currently working on a couple of bots & websites
 
